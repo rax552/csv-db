@@ -66,8 +66,7 @@
 		<table class="table table-bordered">
 			<thead>
 					<tr>
-					
-						<th>Branch Name</th>
+						<th>Branch Name Serial </th>
 						<th>BRNP</th>
 						<th>Customer Name</th>
 						<th>Nature of Advance</th>
