@@ -67,7 +67,7 @@
 			<thead>
 					<tr>
 					
-						<th>Branch</th>
+						<th>Branch Name</th>
 						<th>BRNP</th>
 						<th>Customer Name</th>
 						<th>Nature of Advance</th>
